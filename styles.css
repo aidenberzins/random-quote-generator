@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: helvetica;
+  text-align: center;
+  background: url("https://static.vecteezy.com/system/resources/previews/000/138/173/non_2x/old-grunge-stripes-background-vector.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+}
+
+h1 {
+  padding: 1em 0.5em;
+  background-color: white;
+  border-radius: 5px;
+  font-size: 2em;
+}
+
+img {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: auto;
+  display: block;
+  max-width: 600px;
+  max-height: 400px;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 1.2em;
+  background-color: white;
+  padding: 1em 0.5em;
+  border: solid 3px #de8448;
+  border-radius: 5px;
+}
